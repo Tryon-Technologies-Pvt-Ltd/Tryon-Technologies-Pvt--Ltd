@@ -1,3 +1,1 @@
-# Tryon Technologies Pvt. Ltd.
-
-Upgraded multi-page website. See `README.txt` for setup, deployment and configuration instructions.
+Reusable React AI assistant component. Install React in your app, import `TryonAI`, and pass the deployed Python backend URL as `apiBase`. The API key must remain on the backend; never place it in React/browser code.
